@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Hi there, I'm Maya Mukabe! Software Engineering, Artificial Intelligence, Technology and Business" width="100%" />
+  <img src="header.svg" alt="Hi there, I'm Maya Mukabe! Software Engineering, Artificial Intelligence, Technology and Business" width="100%" />
 
   <a href="https://www.linkedin.com/in/maya-mukabe/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" height="38" />
@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" width="40%" alt="Illustration of a developer coding in a purple-lit room" src="assets/coding-illustration.png" />
+<img align="right" width="40%" alt="Illustration of a developer coding in a purple-lit room" src="coding-illustration.png" />
 
 ## 💻 About Me
 
